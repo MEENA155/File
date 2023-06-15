@@ -26,8 +26,7 @@ Developed by: Meena S
 Register number: 212221240028
 ```
 ```
-Developed by : Gayathri A
-Regiter number:212221230028
+
 
 using System;
 using System.Collections.Generic;
